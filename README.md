@@ -124,7 +124,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is currently open source but does not have a specific license file. All rights reserved.
 
 ## 🙏 Acknowledgments
 
@@ -137,7 +137,7 @@ This project is open source and available under the [MIT License](LICENSE).
 For questions or feedback, please contact:
 
 Yahye Abdirashid
-Email: your-email@example.com
+Email: yaye.abdirashid@gmail.com
 GitHub: [yayeabdirashid](https://github.com/yayeabdirashid)
 
 ---
